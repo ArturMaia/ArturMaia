@@ -17,3 +17,5 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturMaia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+⁠⁠𝘖 𝘷𝘦𝘳𝘥𝘢𝘥𝘦𝘪𝘳𝘰 𝘦𝘴𝘧𝘰𝘳ç𝘰 ⁠𝘨𝘢𝘯𝘩𝘢 𝘥𝘰 𝘥𝘰𝘮 𝘯𝘢𝘵𝘶𝘳𝘢𝘭
