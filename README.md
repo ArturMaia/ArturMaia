@@ -1,7 +1,6 @@
 
 ### Olá eu sou o Artur ✌🏾
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100074724496856&mibextid=ZbWKwL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-artur-maia-24b571235)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-artur-maia-1189b4310/)
 
 ![Maia GitHub stats](https://github-readme-stats.vercel.app/api?username=ArturMaia&show_icons=true&theme=dracula)
 
