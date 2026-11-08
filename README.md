@@ -1,6 +1,6 @@
 ## 👾 PLAYER: <img align="absmiddle" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=5EEAD4&vCenter=true&width=230&height=30&repeat=false&lines=ARTUR+MAIA" alt="Artur Maia" />
 
-Atuo na área de **geotecnologias** e **ciência de dados**, transformando dados em informação útil: mapas, análises, dashboards e modelos. Trabalho com R, Python e JavaScript, uso bancos de dados SQL e PostgreSQL e crio visualizações no Power BI. Também desenvolvo automações, projetos de IA, aplicativos e jogos em Python, sempre buscando aprender algo novo a cada projeto.
+Atuo na área de **geotecnologias** e **ciência de dados**, transformando dados em informação útil: mapas, análises, dashboards e modelos. Trabalho com linguagens de programação, bancos de dados e algumas outras ferramentas. Minha busca é o aprendizado e a evolução.
 
 <div align="center">
 
