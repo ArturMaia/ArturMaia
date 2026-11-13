@@ -33,7 +33,7 @@ Cada repositório reúne os projetos de uma mesma área. Dentro dele, cada pasta
 | 📊 | **Data-Science** | Do dado bruto ao insight: análise exploratória, visualização, estatística e modelagem preditiva. |
 | 🖥️ | **Python-APP** | Aplicativos em Python com interface gráfica e, quando necessário, banco de dados e integração com serviços externos. |
 | 🎮 | [**Games-Python**](https://github.com/ArturMaia/games-python) | Jogos feitos em Python, para praticar lógica de programação e criatividade. |
-| 🔌 | **Robótica e Eletrônica**\* | Projetos que unem programação e componentes físicos, com Arduino e outros microcontroladores. |
+| 🔌 | **Robótica e Eletrônica** | Projetos que unem programação e componentes físicos, com Arduino e outros microcontroladores. |
 
 > \* No momento, o único repositório publicado é o **Games-Python**. Os demais estão em desenvolvimento e serão adicionados. 
 
