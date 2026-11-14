@@ -27,7 +27,7 @@ Cada repositório reúne os projetos de uma mesma área. Dentro dele, cada pasta
 
 | | Área | Como funciona |
 |:---:|---|---|
-| ⚙️ | **Automação** | Soluções que executam tarefas repetitivas de forma automática, poupando tempo e trabalho manual. |
+| ⚙️ | [**Automação**](https://github.com/ArturMaia/Automacao) | Soluções que executam tarefas repetitivas de forma automática, poupando tempo e trabalho manual. |
 | 🤖 | **IA** | Estudos e aplicações de inteligência artificial, de modelos prontos a soluções que aprendem com os dados. |
 | 🌎 | **Geoprocessamento** | Análise e visualização de dados geográficos, com mapas e análises espaciais em Python e R. |
 | 📊 | **Data-Science** | Do dado bruto ao insight: análise exploratória, visualização, estatística e modelagem preditiva. |
@@ -35,6 +35,6 @@ Cada repositório reúne os projetos de uma mesma área. Dentro dele, cada pasta
 | 🎮 | [**Games-Python**](https://github.com/ArturMaia/games-python) | Jogos feitos em Python, para praticar lógica de programação e criatividade. |
 | 🔌 | **Robótica e Eletrônica** | Projetos que unem programação e componentes físicos, com Arduino e outros microcontroladores. |
 
-> \* No momento, o único repositório publicado é o **Games-Python**. Os demais estão em desenvolvimento e serão adicionados. 
+> \*Os demais estão em desenvolvimento e serão adicionados. 
 
 <p align="center"><a href="https://github.com/ArturMaia?tab=repositories"><b>PRESS START ▶</b></a></p>
