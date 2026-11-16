@@ -32,7 +32,7 @@ Cada repositório reúne os projetos de uma mesma área. Dentro dele, cada pasta
 | 🌎 | **Geoprocessamento** | Análise e visualização de dados geográficos, com mapas e análises espaciais em Python e R. |
 | 📊 | **Data-Science** | Do dado bruto ao insight: análise exploratória, visualização, estatística e modelagem preditiva. |
 | 🖥️ | **Python-APP** | Aplicativos em Python com interface gráfica e, quando necessário, banco de dados e integração com serviços externos. |
-| 🎮 | [**Games-Python**](https://github.com/ArturMaia/games-python) | Jogos feitos em Python, para praticar lógica de programação e criatividade. |
+| 🎮 | [**Games-Python**](https://github.com/ArturMaia/games-python) | Jogos feitos em Python, para se divertir e relaxar. |
 | 🔌 | **Robótica e Eletrônica** | Projetos que unem programação e componentes físicos, com Arduino e outros microcontroladores. |
 
 > \*Os demais estão em desenvolvimento e serão adicionados. 
